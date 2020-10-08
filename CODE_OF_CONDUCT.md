@@ -1,0 +1,12 @@
+# Código de conduta
+- Não aceito alteração de layout
+- Não aceito correção ortográfica
+- Caso queira traduzir clone esse repositório e envie na sua conta e observe a LICENSE
+- Caso queira mudar o layout clone esse repositório, envie na sua conta e observe a LICENSE
+- Caso queira fazer correção ortográfica clone essse repositório, envie na sua conta e observe a LICENSE
+- Caso queira fazer as alterações negadas acima nesse repositório você precisará seguir as seguintes regras
+  - Quando o usuário voltar a página a página precisa estar da forma como o usuário viu da última vez de acordo com os princípios da conservação do estado.
+  - Apenas ações do usuário podem alterar a página
+  - Precisa ter um sistema de histórico acessível e exclusivo para o usuário de acordo com os estados que o usuário observou e somente o usuário
+  - Caso queira alterar você mesmo para o usuário, você precisa garantir que a sua alteração hoje e sempre sempre agradará o usuário
+- Você é livre!
